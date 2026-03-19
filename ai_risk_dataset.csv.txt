@@ -1,0 +1,301 @@
+text,label
+"An AI-powered social scoring system used by municipal governments to determine citizen eligibility for public housing based on social media behavior." ,Unacceptable_Risk
+"A real-time biometric identification system deployed in public spaces for the purpose of indiscriminate mass surveillance by law enforcement." ,Unacceptable_Risk
+"An AI application designed to subconsciously manipulate children into performing dangerous physical stunts via gamified challenges in an AR app." ,Unacceptable_Risk
+"A predictive policing tool used to identify and target individuals for arrest based on 'innate' personality traits analyzed from facial features." ,Unacceptable_Risk
+"A cognitive-behavioral manipulation AI used by employers to secretly discourage workers from exercising their right to collective bargaining." ,Unacceptable_Risk
+"An AI system that creates 'trustworthiness' scores for individuals based on their religious and political affiliations to restrict access to travel." ,Unacceptable_Risk
+"A biometric emotion recognition system used in the workplace to punish employees who show signs of frustration or fatigue." ,Unacceptable_Risk
+"An AI-driven 'vulnerability' scanner that identifies people with gambling addictions to target them with predatory high-stakes loan advertisements." ,Unacceptable_Risk
+"A social credit system for schools that ranks children's 'loyalty' to the state and denies higher education to those with low scores." ,Unacceptable_Risk
+"An AI tool used by border guards to analyze 'truthfulness' via micro-expressions to automatically deny asylum without human oversight." ,Unacceptable_Risk
+"A dark-pattern AI integrated into smart toys that encourages toddlers to share their parents' financial secrets through 'secret' games." ,Unacceptable_Risk
+"A real-time remote biometric identification system used by private security to ban 'suspicious' looking people from public town squares." ,Unacceptable_Risk
+"An AI algorithm used by insurance companies to predict and induce mental breakdowns in policyholders to invalidate their claims." ,Unacceptable_Risk
+"A system that uses subliminal acoustic signals to influence voters' preferences during a live broadcast of a political debate." ,Unacceptable_Risk
+"An AI that classifies individuals into 'superior' and 'inferior' social tiers to determine the quality of emergency medical response they receive." ,Unacceptable_Risk
+"A predatory AI that monitors funeral notices to automatically generate and send fake debt collection notices to grieving family members." ,Unacceptable_Risk
+"An AI system designed to exploit the psychological vulnerabilities of the elderly to coerce them into transferring their life savings to a shell company." ,Unacceptable_Risk
+"A mass facial recognition database used by a regime to track the attendance of individuals at peaceful political protests in real-time." ,Unacceptable_Risk
+"A 'loyalty' scoring AI used by retail banks to automatically freeze the accounts of customers who donate to environmental activist groups." ,Unacceptable_Risk
+"An AI-enabled 'behavioral correction' tool used in prisons that uses electric shocks to punish inmates based on predicted non-compliance." ,Unacceptable_Risk
+"A system that uses biometric data to identify and segregate individuals in public transport based on their perceived ethnic origin." ,Unacceptable_Risk
+"An AI that analyzes private private communications to identify and report 'potential dissenters' to state security forces before any crime occurs." ,Unacceptable_Risk
+"A workplace AI that monitors bathroom breaks and uses subliminal messages to pressure employees into skipping lunch for higher productivity." ,Unacceptable_Risk
+"A biometric system used by debt collectors to track and harass debtors in public spaces using facial recognition-linked billboards." ,Unacceptable_Risk
+"An AI system designed to deceive users into believing they are talking to a deceased relative to extract sensitive inheritance information." ,Unacceptable_Risk
+"An automated AI system used by a national university to rank and filter student applications for medical school based on historical data." ,High_Risk
+"A predictive maintenance AI for commercial aviation that determines when jet engines require critical safety overhauls." ,High_Risk
+"An AI-powered triage tool used in emergency rooms to prioritize patients for life-saving surgery based on survival probability." ,High_Risk
+"A biometric identification system used by police to scan crowds for matches against a specific database of violent crime suspects." ,High_Risk
+"An AI algorithm used by a major bank to evaluate the creditworthiness of small business owners applying for expansion loans." ,High_Risk
+"A computer vision system installed in autonomous tractors to detect and avoid human workers in high-density farming zones." ,High_Risk
+"An AI-based recruitment platform that screens CVs and ranks candidates for a senior software engineering role at a tech firm." ,High_Risk
+"A digital tool used by judges to assess the risk of recidivism when determining bail conditions for defendants in criminal trials." ,High_Risk
+"An AI system that monitors the attention levels of pilots during long-haul flights and alerts ground control of potential fatigue." ,High_Risk
+"A software tool used by public authorities to verify the authenticity of travel documents and visas at international border crossings." ,High_Risk
+"An AI that manages the distribution of electricity across a national power grid to prevent localized blackouts during peak demand." ,High_Risk
+"A diagnostic AI used by radiologists to identify early-stage malignant tumors in MRI scans of the brain." ,High_Risk
+"An automated scoring system used by high schools to grade standardized final exams that determine university eligibility." ,High_Risk
+"An AI system used by fire departments to predict the spread of wildfires and optimize the deployment of emergency responders." ,High_Risk
+"A biometric time-and-attendance system used by a factory to track employee movements for safety in hazardous chemical zones." ,High_Risk
+"An AI tool used by human resources to monitor and evaluate the performance of remote workers for the purpose of promotion or termination." ,High_Risk
+"A credit scoring AI that uses alternative data points to determine the interest rates for mortgage applicants." ,High_Risk
+"An AI-driven dispatch system for ambulance services that optimizes routes based on real-time traffic and patient urgency." ,High_Risk
+"A robotic surgery assistant that uses AI to guide precise incisions during complex cardiovascular procedures." ,High_Risk
+"An AI system used by migration authorities to process and rank asylum applications based on country-of-origin risk profiles." ,High_Risk
+"A gas leak detection AI that monitors industrial pipelines and automatically triggers emergency shut-off valves." ,High_Risk
+"An AI tool used by law enforcement to analyze evidence and predict the likely geographic area of a serial offender's next crime." ,High_Risk
+"A software system used by educational institutions to detect cheating during remote proctored exams using gaze tracking." ,High_Risk
+"An AI-powered elevator management system in a skyscraper that prioritizes emergency services during a building evacuation." ,High_Risk
+"A tool used by insurers to calculate life insurance premiums based on an individual's chronic health data and lifestyle habits." ,High_Risk
+"An AI chatbot used by a clothing retailer to help customers find the right size based on their height and weight." ,Limited_Risk
+"A generative AI tool used by a marketing agency to create realistic synthetic images of models for a digital ad campaign." ,Limited_Risk
+"An AI system that creates 'deepfake' video content of historical figures for use in an educational documentary." ,Limited_Risk
+"A customer service bot on a banking website that answers basic questions about opening a new savings account." ,Limited_Risk
+"An AI-driven translation tool used by a travel app to provide real-time audio translation for tourists in foreign countries." ,Limited_Risk
+"A deepfake detection tool that analyzes video files to determine if the person's likeness has been synthetically altered." ,Limited_Risk
+"An AI personality integrated into a smart home hub that can engage in casual conversation and tell jokes to the user." ,Limited_Risk
+"A generative AI writing assistant that helps users draft emails and blog posts by suggesting complete sentences." ,Limited_Risk
+"An AI-powered avatar in a video game that uses natural language processing to talk to players about in-game quests." ,Limited_Risk
+"A synthetic voice generator used by a podcast producer to read listener comments in various regional accents." ,Limited_Risk
+"An AI system that automatically labels social media posts as 'AI-generated' if they contain synthetic imagery." ,Limited_Risk
+"A virtual makeup try-on tool that uses AR and AI to show how different lipstick shades look on a user's face." ,Limited_Risk
+"An AI chatbot used by a pharmacy to help patients check the opening hours and location of their nearest branch." ,Limited_Risk
+"A generative AI tool that creates custom background music for YouTube videos based on a user-selected mood." ,Limited_Risk
+"An AI-powered 'virtual friend' app designed to provide emotional support and conversation to lonely adults." ,Limited_Risk
+"A tool that uses AI to automatically generate subtitles and captions for live television broadcasts." ,Limited_Risk
+"An AI system used by a news organization to summarize long investigative reports into short bullet points for social media." ,Limited_Risk
+"A generative AI that creates architectural concept sketches based on text descriptions like 'modern sustainable villa'." ,Limited_Risk
+"An AI chatbot on a government portal that helps citizens find the correct forms for renewing their driver's license." ,Limited_Risk
+"A synthetic image generator used by interior designers to visualize different furniture layouts in a 3D room." ,Limited_Risk
+"An AI tool that suggests creative subject lines for email marketing campaigns to improve open rates." ,Limited_Risk
+"A virtual concierge in a hotel lobby that uses a synthetic human face to provide guests with restaurant recommendations." ,Limited_Risk
+"An AI-powered tool that generates realistic textures for 3D models in professional video game development." ,Limited_Risk
+"A customer feedback bot that categorizes user reviews as positive, negative, or neutral for a mobile app." ,Limited_Risk
+"An AI system that generates synthetic data for testing software applications without using real customer information." ,Limited_Risk
+"A spam filter in an email client that identifies and moves promotional messages to a separate folder." ,Minimal_Risk
+"An AI-powered recommendation engine on a streaming platform that suggests movies based on a user's watch history." ,Minimal_Risk
+"A smart lawnmower that uses AI to navigate around a garden and avoid hitting stationary objects like trees." ,Minimal_Risk
+"An AI system used in a video game to control the behavior of non-player characters during combat sequences." ,Minimal_Risk
+"A weather forecasting AI that analyzes atmospheric data to predict local rainfall patterns for the next 24 hours." ,Minimal_Risk
+"An AI-driven inventory management system for a grocery store that predicts when to restock milk and bread." ,Minimal_Risk
+"A grammar and spell-check tool that highlights typos and suggests corrections in a word processing application." ,Minimal_Risk
+"An AI algorithm used by a fitness app to suggest a daily workout routine based on the user's past activity levels." ,Minimal_Risk
+"A smart thermostat that learns a homeowner's temperature preferences to optimize heating and cooling efficiency." ,Minimal_Risk
+"An AI-powered search engine that ranks web pages based on relevance to a user's specific keyword query." ,Minimal_Risk
+"A computer vision system in a factory that counts the number of boxes passing through a conveyor belt." ,Minimal_Risk
+"An AI tool used by a professional photographer to automatically sort images by brightness and color temperature." ,Minimal_Risk
+"A language learning app that uses AI to help users practice pronunciation by comparing their voice to a native speaker." ,Minimal_Risk
+"An AI system in a digital camera that automatically adjusts the focus and exposure for landscape photography." ,Minimal_Risk
+"A smart irrigation system that uses AI to water a vineyard only when soil moisture levels drop below a certain point." ,Minimal_Risk
+"An AI-powered route optimization tool for a delivery driver that finds the shortest path between ten different houses." ,Minimal_Risk
+"A noise-canceling AI integrated into headphones that filters out background sounds like airplane engines." ,Minimal_Risk
+"An AI system used by a birdwatching app to identify different species of birds from photos uploaded by users." ,Minimal_Risk
+"A predictive text feature on a smartphone keyboard that suggests the next word as the user is typing." ,Minimal_Risk
+"An AI-driven playlist generator that creates a 'daily mix' of songs based on a user's favorite music genres." ,Minimal_Risk
+"A computer vision tool in a warehouse that identifies damaged pallets before they are loaded onto trucks." ,Minimal_Risk
+"An AI-powered chess engine that allows players to practice against different difficulty levels on a mobile app." ,Minimal_Risk
+"A smart vacuum cleaner that maps the layout of a living room to ensure it cleans the entire floor surface." ,Minimal_Risk
+"An AI tool that optimizes the compression of video files to reduce storage size without losing visual quality." ,Minimal_Risk
+"A recipe recommendation AI that suggests meals based on the ingredients a user currently has in their fridge." ,Minimal_Risk
+"An AI-driven biometric identification system used by local police to monitor and catalog participants at a peaceful religious gathering for potential future state opposition." ,Unacceptable_Risk
+"A cognitive behavioral manipulation AI integrated into a workplace productivity app that uses subliminal visual cues to prevent employees from taking legally mandated breaks." ,Unacceptable_Risk
+"A social scoring system used by national healthcare providers to determine eligibility for organ transplants based on an individual's history of online political comments." ,Unacceptable_Risk
+"An AI application designed to exploit the psychological vulnerabilities of children by encouraging them to buy expensive in-game items through 'false-friend' digital characters." ,Unacceptable_Risk
+"A real-time remote biometric identification system used in a public park to automatically issue fines to individuals based on their 'suspicious' walking patterns." ,Unacceptable_Risk
+"An AI system used by a government to predict the likelihood of an individual joining an opposition party and preemptively revoking their travel documents." ,Unacceptable_Risk
+"A biometric emotion recognition system used by immigration officers to automatically reject asylum seekers who do not display 'sufficient' levels of distress." ,Unacceptable_Risk
+"A dark-pattern AI used in smart home devices that listens for domestic arguments to target the household with advertisements for divorce lawyers and debt services." ,Unacceptable_Risk
+"An AI-powered recruitment tool that automatically excludes candidates based on their genetic data or family medical history to reduce future insurance costs." ,Unacceptable_Risk
+"A social credit system for the maritime industry that ranks sailors' 'political reliability' and bars those with low scores from entering international waters." ,Unacceptable_Risk
+"An AI system designed to influence the voting behavior of neurodivergent individuals by sending them personalized, fear-based misinformation via private messages." ,Unacceptable_Risk
+"A biometric system used by a private security firm to track and harass environmental activists across different cities using a shared facial recognition database." ,Unacceptable_Risk
+"An AI-driven 'loyalty' monitor used by religious institutions to identify and report members who consume 'unauthorized' secular content online." ,Unacceptable_Risk
+"A predictive policing tool used to identify and detain individuals based on their 'predisposition' to crime calculated from their ancestors' criminal records." ,Unacceptable_Risk
+"An AI system that uses subliminal messaging in educational software to discourage children from questioning national history as presented by the state." ,Unacceptable_Risk
+"A workplace AI that monitors the frequency of employees' eye contact with supervisors and reduces their pay if 'submission metrics' are not met." ,Unacceptable_Risk
+"An AI algorithm used by a regime to identify and 're-educate' citizens who use encryption tools on their personal mobile devices." ,Unacceptable_Risk
+"A predatory AI that monitors psychiatric hospital discharge records to automatically send high-interest loan offers to vulnerable patients." ,Unacceptable_Risk
+"An AI system used by public transport authorities to identify and block 'unproductive citizens' from using trains and buses during peak hours." ,Unacceptable_Risk
+"A biometric identification system used by a shopping mall to share the identities of 'low-value' customers with other retailers to ensure they are ignored by staff." ,Unacceptable_Risk
+"An AI-powered tool used by a political campaign to generate and spread 'deepfake' audio of an opponent confessing to a crime they did not commit." ,Unacceptable_Risk
+"A system that uses biometric data to classify and segregate children in playgrounds based on their perceived social class and economic background." ,Unacceptable_Risk
+"An AI that analyzes private emails to detect signs of 'workplace dissatisfaction' and automatically triggers a termination process before the employee can resign." ,Unacceptable_Risk
+"A mass surveillance AI used by a city to track the movements of all residents and automatically deduct 'mobility taxes' for walking in certain neighborhoods." ,Unacceptable_Risk
+"An AI system designed to trick elderly users into signing over their property rights by mimicking the voice of their legal counsel during a video call." ,Unacceptable_Risk
+"An AI-powered flight control system used in commercial cargo planes to optimize fuel consumption and manage emergency landing protocols." ,High_Risk
+"An automated credit risk assessment tool used by a micro-lending startup to determine the interest rates for loans to rural farmers." ,High_Risk
+"A biometric access control system used in a high-security nuclear power plant to verify the identity of technicians entering the reactor core." ,High_Risk
+"An AI system used by a national judicial body to assist judges in determining the appropriate sentence length for convicted non-violent offenders." ,High_Risk
+"A predictive maintenance AI used by a public rail network to detect structural weaknesses in high-speed tracks before they cause a derailment." ,High_Risk
+"An AI-driven triage system used by a telemedicine platform to prioritize patients for urgent specialist consultations based on their reported symptoms." ,High_Risk
+"A software tool used by HR departments to monitor and score the productivity of employees working in critical infrastructure roles like air traffic control." ,High_Risk
+"An AI system used by a university to monitor students during high-stakes entrance exams and flag 'anomalous' behavior for human review." ,High_Risk
+"An AI algorithm used by a public housing authority to rank applicants for affordable housing based on their employment stability and family size." ,High_Risk
+"A biometric identification tool used by law enforcement to scan historical CCTV footage for matches against a database of missing children." ,High_Risk
+"An AI-powered safety system used in industrial mining to detect the presence of toxic gases and automatically evacuate the underground tunnels." ,High_Risk
+"A software system used by insurance companies to calculate health insurance premiums based on data from wearable fitness trackers and medical records." ,High_Risk
+"An AI system used by a port authority to automate the risk-based screening of shipping containers for illegal hazardous materials." ,High_Risk
+"An AI-based grading system used by a national education board to assess the essay portions of mandatory standardized high school exams." ,High_Risk
+"A predictive tool used by fire services to model the structural integrity of burning buildings and guide the deployment of rescue teams." ,High_Risk
+"An AI system used by a bank to evaluate the eligibility of first-time homebuyers for government-backed mortgage subsidies." ,High_Risk
+"A computer vision system installed in autonomous delivery robots to navigate busy urban sidewalks while avoiding collisions with pedestrians." ,High_Risk
+"An AI-powered decision support tool used by doctors to identify the most effective chemotherapy regimen based on a patient's genetic profile." ,High_Risk
+"A software tool used by law enforcement to analyze the 'stress levels' in a suspect's voice during a recorded interrogation." ,High_Risk
+"An AI system used by an airline to manage the scheduling of pilots and flight attendants to ensure compliance with legal rest requirements." ,High_Risk
+"A predictive AI used by a city's water management department to identify potential pipe bursts in the main water supply network." ,High_Risk
+"An AI-driven recruitment platform that uses video analysis to score the 'emotional intelligence' of candidates for executive leadership roles." ,High_Risk
+"A biometric system used by a bank to verify the identity of customers performing high-value international wire transfers via a mobile app." ,High_Risk
+"An AI system used by a border control agency to predict the likelihood of a traveler overstaying their visa based on historical travel patterns." ,High_Risk
+"An AI-powered emergency dispatch tool that prioritizes 911 calls based on the detected urgency and severity of the situation in the audio." ,High_Risk
+"A generative AI chatbot used by a travel website to help users plan a vacation itinerary based on their destination and budget." ,Limited_Risk
+"An AI-powered video editor that can synthetically change the lighting and weather conditions in a film scene during post-production." ,Limited_Risk
+"A tool that uses AI to create 'deepfake' videos of a brand's CEO for use in internal corporate training messages." ,Limited_Risk
+"An AI chatbot used by a telecommunications company to assist customers with troubleshooting their home internet connection." ,Limited_Risk
+"A generative AI tool used by a graphic designer to create realistic textures and patterns for use in digital fashion designs." ,Limited_Risk
+"An AI system that automatically flags and labels synthetic audio content on a music streaming platform to ensure transparency." ,Limited_Risk
+"A customer service bot on a real estate website that answers basic questions about property listings and viewing times." ,Limited_Risk
+"An AI-driven translation tool used by an international conference to provide real-time subtitles for speakers in multiple languages." ,Limited_Risk
+"A virtual influencer created using generative AI that interacts with followers on social media to promote sustainable lifestyle choices." ,Limited_Risk
+"An AI tool used by a gaming studio to generate unique, non-player character dialogue based on the player's previous actions." ,Limited_Risk
+"A synthetic voice generator used by an audiobook publisher to provide a consistent narration style across a long book series." ,Limited_Risk
+"An AI-powered search filter that allows users to find images on a stock photo website based on the 'vibe' or 'mood' of the picture." ,Limited_Risk
+"A generative AI writing assistant that helps journalists draft short news briefs from a list of verified facts and figures." ,Limited_Risk
+"An AI chatbot used by a furniture store to help customers visualize how a sofa would look in their home using a 3D model." ,Limited_Risk
+"A deepfake detection tool used by a social media platform to identify and label manipulated videos of public figures." ,Limited_Risk
+"An AI-powered personalized learning assistant that suggests additional reading materials to students based on their current lesson." ,Limited_Risk
+"A generative AI tool that creates custom logos for small businesses based on a series of text prompts describing the brand." ,Limited_Risk
+"An AI chatbot on a municipal website that helps residents find information on local recycling schedules and waste disposal rules." ,Limited_Risk
+"A synthetic image generator used by an e-commerce site to create lifestyle photos of products without the need for a physical shoot." ,Limited_Risk
+"An AI tool that suggests creative headlines and social media captions for a digital marketing team to increase engagement." ,Limited_Risk
+"A virtual tour guide in a museum app that uses a synthetic human face to provide users with historical context for various exhibits." ,Limited_Risk
+"An AI-powered tool that generates realistic background environments for use in professional architectural visualizations." ,Limited_Risk
+"A customer feedback bot that uses sentiment analysis to categorize user comments on a movie review website." ,Limited_Risk
+"An AI system that generates synthetic medical data for research purposes while ensuring no real patient information is used." ,Limited_Risk
+"An AI-powered avatar in a fitness app that provides real-time encouragement and coaching during a workout session." ,Limited_Risk
+"A spam filter in a messaging app that identifies and hides unsolicited promotional messages from unknown senders." ,Minimal_Risk
+"An AI-powered recommendation engine on a bookstore website that suggests novels based on a user's past purchases." ,Minimal_Risk
+"A smart pet feeder that uses AI to recognize a specific cat and dispense the correct amount of food at scheduled times." ,Minimal_Risk
+"An AI system used in a sports simulation game to control the strategic decisions made by the opposing team's coach." ,Minimal_Risk
+"A weather forecasting AI that uses satellite imagery to predict the movement of clouds and localized sun exposure for solar panels." ,Minimal_Risk
+"An AI-driven inventory tool for a hardware store that predicts the demand for snow shovels based on the local weather forecast." ,Minimal_Risk
+"A grammar and style checker that provides suggestions for more professional phrasing in a business report." ,Minimal_Risk
+"An AI algorithm used by a meditation app to suggest a calming soundscape based on the user's current heart rate from a watch." ,Minimal_Risk
+"A smart lighting system that uses AI to adjust the brightness of a room based on the amount of natural light coming through the windows." ,Minimal_Risk
+"An AI-powered search engine that organizes search results by topic to help users find relevant information more quickly." ,Minimal_Risk
+"A computer vision system in a recycling center that identifies and sorts plastic bottles from aluminum cans on a conveyor belt." ,Minimal_Risk
+"An AI tool used by a nature photographer to automatically tag images with the names of the plants and flowers they contain." ,Minimal_Risk
+"A language learning app that uses AI to provide users with personalized flashcards based on the words they frequently struggle with." ,Minimal_Risk
+"An AI system in a smartphone camera that automatically detects and removes 'red-eye' from photos taken with a flash." ,Minimal_Risk
+"A smart irrigation controller that uses AI to adjust the watering schedule for a public park based on the soil's moisture level." ,Minimal_Risk
+"An AI-powered route planner for a hiker that calculates the most scenic path through a national park based on their preferences." ,Minimal_Risk
+"A noise-canceling AI integrated into a video conferencing tool that filters out the sound of a dog barking in the background." ,Minimal_Risk
+"An AI system used by a stargazing app to identify and label different constellations in the night sky from a photo." ,Minimal_Risk
+"A predictive text feature in a code editor that suggests the next line of code based on the user's current programming context." ,Minimal_Risk
+"An AI-driven music generator that creates a 'focus' playlist of instrumental tracks based on a user's favorite tempo." ,Minimal_Risk
+"A computer vision tool in a retail store that counts the number of customers who enter and leave throughout the day." ,Minimal_Risk
+"An AI-powered chess trainer that provides hints and explanations for the best move in a given position for a beginner player." ,Minimal_Risk
+"A smart robotic mop that uses AI to detect and clean spills on a kitchen floor while avoiding area rugs." ,Minimal_Risk
+"An AI tool that optimizes the compression of audio files to reduce their size without any audible loss in sound quality." ,Minimal_Risk
+"A recipe generation AI that creates a meal plan for the week based on a user's specific dietary goals and calorie needs." ,Minimal_Risk
+"An AI-powered behavioral credit score used by government-linked lenders to deny loans to citizens who have attended unauthorized public assemblies." ,Unacceptable_Risk
+"A real-time remote biometric identification system used by a regime to automatically identify and track political dissidents in urban centers." ,Unacceptable_Risk
+"An AI system used by an employer to secretly analyze private employee messages to detect and prevent union organizing activities." ,Unacceptable_Risk
+"A cognitive manipulation AI built into a mobile game that uses biometric feedback to trigger addictive spending behaviors in minors." ,Unacceptable_Risk
+"An AI-driven social ranking system that restricts access to high-speed rail and air travel for citizens with low 'civic virtue' scores." ,Unacceptable_Risk
+"A biometric emotion recognition system used by law enforcement during interrogations to coerce confessions based on 'detected' guilt." ,Unacceptable_Risk
+"An AI tool used by a national security agency to predict future criminal intent and justify 'pre-emptive' detention of innocent individuals." ,Unacceptable_Risk
+"A workplace AI that uses subliminal acoustic vibrations to increase physical output while suppressing the employees' sense of fatigue." ,Unacceptable_Risk
+"An AI-enabled 'purity' scanner used by border authorities to deny entry to individuals based on their religious or philosophical beliefs." ,Unacceptable_Risk
+"A social scoring system for healthcare that deprioritizes medical treatment for individuals who have expressed 'anti-social' views on the internet." ,Unacceptable_Risk
+"An AI algorithm designed to exploit the grief of widows by mimicking their deceased spouses to solicit 'donations' for fraudulent charities." ,Unacceptable_Risk
+"A biometric system used by a private landlord to automatically blacklist 'troublemaker' tenants from renting any property in a specific city." ,Unacceptable_Risk
+"An AI system that uses deep-learning to manipulate children into disclosing their parents' private political and financial discussions." ,Unacceptable_Risk
+"A real-time facial recognition system used by a state to identify and exclude 'unreliable' persons from entering public voting stations." ,Unacceptable_Risk
+"An AI-driven 'vulnerability' index that identifies households in financial crisis to target them with aggressive, high-interest predatory debt traps." ,Unacceptable_Risk
+"A cognitive manipulation tool used by extremist groups to radicalize vulnerable teenagers via personalized, AI-generated 'friend' bots." ,Unacceptable_Risk
+"An AI system that ranks citizens based on their 'genetic worth' and uses this score to determine eligibility for subsidized housing." ,Unacceptable_Risk
+"A biometric surveillance tool used by a corporation to identify and fire employees who show physiological signs of supporting a rival firm." ,Unacceptable_Risk
+"An AI that analyzes private phone calls to automatically report 'signs of non-conformity' to state security forces for immediate investigation." ,Unacceptable_Risk
+"A mass-scale AI emotion tracking system used in public squares to identify and suppress groups exhibiting 'rebellious' collective moods." ,Unacceptable_Risk
+"An AI system designed to subconsciously influence the purchase of pharmaceutical drugs through hidden visual cues in children's television." ,Unacceptable_Risk
+"A biometric classification tool used by a regime to segregate ethnic minorities into specific 'monitored' residential districts." ,Unacceptable_Risk
+"An AI-powered 'loyalty' bot that infiltrates family group chats to report members who criticize government-led economic policies." ,Unacceptable_Risk
+"A predictive AI used to identify individuals for police harassment based on their physical resemblance to known historical political activists." ,Unacceptable_Risk
+"An AI tool used by predatory lenders to identify people with cognitive impairments and trick them into signing legally binding contracts." ,Unacceptable_Risk
+"An AI-powered automated sorting system used by a logistics giant to manage the distribution of hazardous chemicals across its warehouse network." ,High_Risk
+"An AI system used by a regional power utility to predict and manage load-shedding during extreme heatwaves to prevent grid collapse." ,High_Risk
+"A computer vision tool used in large-scale commercial fisheries to detect and report the accidental capture of protected marine species." ,High_Risk
+"An AI-driven irrigation management system for industrial-scale wheat farms that regulates water usage based on local drought severity." ,High_Risk
+"An AI system used by a central bank to monitor real-time transaction data for signs of large-scale money laundering or terrorist financing." ,High_Risk
+"A predictive maintenance AI for public bridge infrastructure that identifies structural fatigue and signals the need for urgent closure." ,High_Risk
+"An AI-powered diagnostic tool used in dermatology to analyze skin lesions and flag potential cases of melanoma for physician review." ,High_Risk
+"An automated scoring system used by a national bar association to grade the essay portion of lawyer qualification examinations." ,High_Risk
+"An AI system used by municipal fire departments to optimize the positioning of fire engines during high-risk 'red flag' fire weather." ,High_Risk
+"A biometric access control system used in a Level 4 biolab to ensure only authorized scientists can access high-risk viral strains." ,High_Risk
+"An AI algorithm used by a major pharmaceutical firm to identify eligible participants for a Phase III clinical trial for a new heart drug." ,High_Risk
+"An AI-driven candidate ranking system used by a global NGO to hire emergency response teams for disaster-stricken regions." ,High_Risk
+"A predictive tool used by maritime authorities to assess the risk of collisions in high-traffic shipping lanes during heavy fog." ,High_Risk
+"An AI system used by an insurance provider to determine the payout eligibility for large-scale agricultural crop failure claims." ,High_Risk
+"A computer vision system installed in mining trucks to monitor driver alertness and automatically engage brakes if a 'micro-sleep' occurs." ,High_Risk
+"An AI tool used by public prosecutors to analyze historical sentencing data and recommend appropriate charges for complex financial crimes." ,High_Risk
+"An AI-powered remote proctoring system used by a university to verify the identity and integrity of students taking online engineering exams." ,High_Risk
+"An automated credit assessment AI used by a cooperative bank to evaluate loan applications for high-tech farm equipment." ,High_Risk
+"An AI system used by a water treatment plant to monitor chemical levels and automatically shut down pumps if contamination is detected." ,High_Risk
+"A biometric system used by a secure data center to grant physical access to technicians based on a combination of iris and palm prints." ,High_Risk
+"An AI-driven emergency response system for offshore oil rigs that coordinates the deployment of lifeboats during a gas leak alert." ,High_Risk
+"An AI algorithm used by a government agency to prioritize the processing of work visa applications for 'critical skill' industries." ,High_Risk
+"A software tool used by surgeons to simulate and plan the precise placement of neural implants during complex brain surgery." ,High_Risk
+"An AI system used by an urban planning department to predict the impact of new skyscrapers on the structural integrity of old subway tunnels." ,High_Risk
+"An AI-powered threat detection system used by airport security to analyze X-ray scans for highly sophisticated concealed explosive devices." ,High_Risk
+"An AI chatbot used by a luxury car brand to answer customer questions about vehicle specifications and custom leather options." ,Limited_Risk
+"A generative AI tool used by a fashion retailer to create synthetic models wearing their latest seasonal clothing collection for catalogs." ,Limited_Risk
+"An AI system that generates 'deepfake' voices for a radio drama to portray various historical figures and fictional characters." ,Limited_Risk
+"A customer service bot on an airline's website that helps travelers check the status of their loyalty points and baggage allowance." ,Limited_Risk
+"An AI-powered translation tool integrated into a web browser that provides real-time text-to-speech for news articles." ,Limited_Risk
+"A deepfake detection algorithm used by an online video sharing platform to identify and label digitally altered political speeches." ,Limited_Risk
+"An AI writing assistant used by a real estate agency to generate property descriptions based on a list of features like 'pool' and 'view'." ,Limited_Risk
+"A generative AI tool that creates custom logo animations for small YouTube channels based on a user's brand colors and style." ,Limited_Risk
+"An AI-powered 'virtual stylist' app that suggests outfits for users based on the clothes currently in their digital wardrobe." ,Limited_Risk
+"A synthetic image generator used by an architecture firm to create 3D visualizations of proposed park designs for a city council." ,Limited_Risk
+"An AI chatbot used by a botanical garden to help visitors identify plants and find the location of specific floral displays." ,Limited_Risk
+"A generative AI that creates 'lo-fi' study music streams by continuously blending different instrumental beats and ambient sounds." ,Limited_Risk
+"An AI tool used by a recipe blog to automatically generate 'how-to' videos from a set of written cooking instructions." ,Limited_Risk
+"A synthetic voice generator used in a GPS navigation app that allows users to hear directions in a variety of celebrity-like tones." ,Limited_Risk
+"An AI-powered filter that automatically blurs out personal identification numbers or addresses in photos uploaded to a community forum." ,Limited_Risk
+"A generative AI tool that creates custom coloring book pages for kids based on prompts like 'a dragon eating a taco'." ,Limited_Risk
+"An AI chatbot used by a telecommunications company to help customers troubleshoot their TV remote and set-top box issues." ,Limited_Risk
+"A virtual fitness coach in a VR app that uses a synthetic human avatar to demonstrate correct yoga poses to the user." ,Limited_Risk
+"An AI-powered tool used by a gaming studio to generate thousands of unique, non-repeating quest descriptions for an RPG." ,Limited_Risk
+"A generative AI that creates personalized bedtime stories for children using their names and favorite animals as the main characters." ,Limited_Risk
+"An AI-powered search assistant on a museum website that helps researchers find specific historical artifacts in a digital archive." ,Limited_Risk
+"A customer feedback bot that uses natural language processing to group product reviews into themes like 'price', 'durability', and 'size'." ,Limited_Risk
+"An AI tool that generates synthetic weather data for use in training autonomous vehicle sensors to handle extreme fog or rain." ,Limited_Risk
+"A generative AI that creates realistic digital backgrounds for weather reporters to use during a green-screen broadcast." ,Limited_Risk
+"An AI chatbot on a library's website that helps patrons find and reserve the latest bestselling novels." ,Limited_Risk
+"An AI-powered spam filter for a business email server that identifies and quarantines suspicious 'phishing' attempts." ,Minimal_Risk
+"A recommendation engine for a coffee subscription service that suggests new roasts based on a user's previous ratings." ,Minimal_Risk
+"A smart irrigation system for home gardens that uses AI to check the local weather forecast and skip watering on rainy days." ,Minimal_Risk
+"An AI system used in a car racing video game to control the driving lines and speed of the computer-controlled opponents." ,Minimal_Risk
+"A weather prediction AI that analyzes historical wind data to help a sailing club schedule their weekend races." ,Minimal_Risk
+"An AI-driven inventory tool for a local bakery that suggests how many loaves of sourdough to bake based on the day of the week." ,Minimal_Risk
+"A basic spell-check and autocorrect tool integrated into a mobile messaging app to prevent common typing errors." ,Minimal_Risk
+"An AI algorithm used by a fitness tracker to estimate the number of steps taken based on the movement of the user's wrist." ,Minimal_Risk
+"A smart thermostat in a commercial office building that adjusts the air conditioning based on the number of people in the room." ,Minimal_Risk
+"An AI-powered search engine for a stock photo website that ranks images based on their color palette and composition." ,Minimal_Risk
+"A computer vision system in an automated car wash that detects the position of the vehicle to avoid damaging side mirrors." ,Minimal_Risk
+"An AI tool used by a bird enthusiast to automatically sort their photo library into 'birds' and 'not birds'." ,Minimal_Risk
+"A language learning app that uses AI to track which vocabulary words a user has mastered and which ones need more practice." ,Minimal_Risk
+"An AI system in a digital scanner that automatically crops and straightens images of old physical photographs." ,Minimal_Risk
+"A smart garden sensor that uses AI to alert a user via an app when their indoor plants need more sunlight." ,Minimal_Risk
+"An AI-powered route planner for a professional cyclist that finds roads with the least amount of traffic for a safe training ride." ,Minimal_Risk
+"A noise-canceling AI integrated into a smartphone that reduces the sound of wind during a hands-free phone call." ,Minimal_Risk
+"An AI system used by a constellation-mapping app to help amateur astronomers find the North Star using their camera." ,Minimal_Risk
+"A predictive text feature in a spreadsheet application that suggests the most likely formula based on the neighboring data." ,Minimal_Risk
+"An AI-driven playlist generator for a gym that matches the tempo of the music to the average heart rate of the class." ,Minimal_Risk
+"A computer vision tool in a grocery store that detects if a produce scale is empty or if there is an item left on it." ,Minimal_Risk
+"An AI-powered chess clock app that detects when a player has moved their piece and automatically stops their timer." ,Minimal_Risk
+"A smart robotic pool cleaner that uses AI to navigate around steps and ladders to ensure the entire floor is scrubbed." ,Minimal_Risk
+"An AI tool that optimizes the file size of high-resolution architectural blueprints for faster sharing via email." ,Minimal_Risk
+"A recipe suggestion AI that creates a shopping list based on a user's selected weekly meal plan." ,Minimal_Risk
